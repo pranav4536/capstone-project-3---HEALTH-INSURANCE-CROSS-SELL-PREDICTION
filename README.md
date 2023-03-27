@@ -1,4 +1,4 @@
-# capstone-project-3
+# Capstone-project-3
 # Health-insurance-cross-sell-prediction
 
 This is a note book of  cross selling of health insurance customers on vehicle insurance product and using machine learning to predict whether a customer is interested or not in vehicle insurancen
